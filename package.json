@@ -14,5 +14,6 @@
 	"author": "Shokhrukh Rustamaliev",
 	"description": "Freecodecamp saytidan ishlangan vazifalar.",
 	"keywords": ["freecodecamp", "npm"],
-	"license": "BSD"
+	"license": "BSD",
+	"version": "0.0.1"
 }
