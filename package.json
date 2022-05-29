@@ -11,5 +11,6 @@
 		"type": "git",
 		"url": "https://github.com/shoxruh-r/boilerplate-npm"
 	},
-	"author": "Shokhrukh Rustamaliev"
+	"author": "Shokhrukh Rustamaliev",
+	"description": "Freecodecamp saytidan ishlangan vazifalar."
 }
