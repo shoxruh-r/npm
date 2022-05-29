@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0",
-		"moment": "2.14.0"
+		"moment": "2.10.2"
 	},
 	"main": "server.js",
 	"scripts": {
@@ -16,5 +16,5 @@
 	"description": "Freecodecamp saytidan ishlangan vazifalar.",
 	"keywords": ["freecodecamp", "npm"],
 	"license": "BSD",
-	"version": "2.10.2"
+	"version": "0.0.1"
 }
